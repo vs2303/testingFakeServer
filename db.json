@@ -1,1 +1,8 @@
-{"status":200, "result": {"pan_hostname": "10.1.20.20" ,"device_name": "devpanfw0104", "job_id":12}}
+{
+  "status":200,
+  "result": {
+    "pan_hostname": "10.1.20.20" ,
+    "device_name": "devpanfw0104",
+    "job_id":12
+  }
+}
